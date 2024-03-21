@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
 <h3 align="center">An Economics Student Passionate About Analytics</h3>
 
-- 🔭 I’m currently working on a [Football Player Valuation Model](https://github.com/cmartins2001/web_scraping/blob/main/scrape_fbref.py)
+- 🔭 I’m currently working on a [Football Player Valuation Model](https://github.com/cmartins2001/player-valuation-model)
 
 - 🌱 I’m currently learning **Python**
 
