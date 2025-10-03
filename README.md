@@ -1,14 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Connor</h1>
-<h3 align="center">An Economics Student Passionate About Analytics</h3>
+<h1 align="center">i am connor martins</h1>
+<h3 align="center">econ student @ NEU / full-time DA professional</h3>
 
-- 🔭 I’m currently working on a [Football Player Valuation Model](https://github.com/cmartins2001/player-valuation-model)
+- 🔭 you can see my undergrad capstone ML project [here](https://github.com/cmartins2001/player-valuation-model)
 
-- 🌱 I’m currently learning **Python**
-
-- ⚡I recently worked on [Gravity Model of Trade](https://cmartins2001-cmartins-github-io-gravity-web-app-gravity--sxhelp.streamlit.app/)
-
-- 💬 Ask me about **European Soccer Research**
+- 🌱 i work almost exclusively in **Python** and **SQL** and like to build web apps for data analysis
 
 - 📫 How to reach me: **cmartinspfhs2001@gmail.com**
 
